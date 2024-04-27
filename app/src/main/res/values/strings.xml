@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="layout_weight_1">Layout Weight 1</string>
+    <string name="layout_weight_2">Layout Weight 2</string>
+    <string name="example_ui_excerclse_linearlayout">Example_UI_Excerclse_LinearLayout</string>
+    <string name="how_to_code_this_ui">How to code this UI?</string>
+    <string name="education">Education</string>
+</resources>
