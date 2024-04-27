@@ -5,4 +5,6 @@
     <string name="example_ui_excerclse_linearlayout">Example_UI_Excerclse_LinearLayout</string>
     <string name="how_to_code_this_ui">How to code this UI?</string>
     <string name="education">Education</string>
+    <string name="game">Game</string>
+    <string name="sport">Sport</string>
 </resources>

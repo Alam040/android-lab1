@@ -36,6 +36,7 @@
         android:paddingStart="20dp"
         android:background="@color/purple"
         android:textColor="@color/white"
+        android:textFontWeight="1"
         tools:ignore="RtlSymmetry" />
 
     <TextView
